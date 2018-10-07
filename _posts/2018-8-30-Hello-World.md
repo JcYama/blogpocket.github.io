@@ -15,4 +15,4 @@ No está mal empezar este blog señalando que apenas está en cosntrucción, as�
 
 Todavía estoy en el aprendizaje del Markdown, así que las próximas entradas serán algo pobres en cuanto a diseño.
 
-Bueno, estamos aquí para aprneder, ¿no?
+Bueno, estamos aquí para aprender, ¿no?
