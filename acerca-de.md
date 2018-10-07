@@ -1,29 +1,30 @@
 ---
 layout: page
-title: Acerca de
+title: Sobre mí
 permalink: /acerca-de/
 ---
 
-Mi nombre es Antonio Cambronero Sánchez y éste es mi miniblog personal. 
+Mi nombre es Julio Yamá Andrade y éste es mi miniblog personal. 
 
 ### Más información
 
-Soy informático, blogger y profesor, con más de 20 años de experiencia en departamentos de soporte técnico informático, análisis de sistemas, productividad, optimización de procesos, atención al cliente y formación, en empresas multinacionales.
+Soy Abogado, blogger y profesor, con más de 7 años de experiencia en el mundo del blogging especialmente en Blogger. Trato de ayudar a otras personas como yo a navegar en este basto mundo del blogueo y convertir su experiencia en algo más que un simple post.
 
-- Fundador del blog **Blogpocket** (25-1-2001). 
-- Autor del libro: **“Manual imprescindible de Twitter”** (Ed. Anaya Multimedia, 2012).
-- Profesor del Posgrado en Comunicación Digital y Social Media, en **Inesdi Digital Business School**.
-- Investigador, asesor, autor y Blogging Coach en **Blogpocket**.
+Mis pasiones se concentran en mis 3 blogs donde toco las temáticas que más influyen en mi vida: el mundo del blog y el internet a través de la Taberna de Julio desde donde hace más de 7 años comparto mi conocimiento en la plataforma de Blogger par aayudar a blogueros primerizos a crear y mantener su primer blog.
 
-### Publico textos, podcasts y vídeos en:
+La espada de Jhuldor donde publico reseñas sobre el mundo de la fantasía épica y la ciencia ficción a través de los libros, videojuegos, series de televisión y películas que disfruto.
 
-- [Blogpocket](https://www.blogpocket.com)
-- [Twitter](https://www.twitter.com/blogpocket)
-- [Instagram](https://www.instagram.com/blogpocket)
-- [YouTube](https://www.youtube.com/blogpocket)
-- [SoundCloud](https://www.soundcloud.com/blogpocket)
-- [Tumblr](https://laultimacassette.tumblr.com)
+Y finalmente Cuestión de Derecho, donde toco distintos temas del orden jurídico y del derecho, carrera que ejerzo actualmente y que me apasiona de la misma forma que la fantasía y los blogs.
+
+- Fundador del blog **La Taberna de Julio** (10-07-2010). 
+
+### Puedes encontrarme también en:
+
+- [La Taberna de Julio](https://www.tabernadejulio.com)
+- [Cuestión de Derecho](https://cuestionderecho.blogspot.com)
+- [La Espada de Jhuldor](https://espadadejhuldor.blogspot.com)
+- [Twitter](https://www.twitter.com/JcYamaOficial)
 
 ### Contacto
 
-[blogpocket@gmail.com](mailto:blogpocket@gmail.com)
+[julioyamaandrade@outlook.com](mailto:julioyamaandrade@outlook.com)
