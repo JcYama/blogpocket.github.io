@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Nuevo post en La Taberna: Creando un blog en Github
+title: Nuevo post en La Taberna: creando un blog en github
 author: Julio Yamá Andrade
 image: /images/crear-blog-github-jekyll.png
 categories: taberna-de-julio
-published: true
+published:true
 ---
+
 Aproveché la experiencia que me dejó crear este blog para realizar una nueva entrada en **La Taberna de Julio** que lleva por título: Crear un blog en Github es fácil y sencillo.
 
 Aproveché dicho post para realizar un tutorial para la creación de un blog en la plataforma así como para realizar algunos comentarios que me dejó dicha experiencia.
