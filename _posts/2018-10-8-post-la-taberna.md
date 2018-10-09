@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nuevo post en La Taberna: Creando un blog en Github
+title: Nuevo post en La Taberna - Creando un blog en Github
 author: Julio Yamá Andrade
 image: /images/crear-blog-github-jekyll.png
 categories: taberna-de-julio
