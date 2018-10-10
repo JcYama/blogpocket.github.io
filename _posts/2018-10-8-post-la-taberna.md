@@ -9,7 +9,7 @@ published: true
 
 Aproveché la experiencia que me dejó crear este blog para realizar una nueva entrada en **La Taberna de Julio** que lleva por título: Crear un blog en Github es fácil y sencillo.
 
-![crear blog en Github](images/crear-blog-github-jekyll.jpg)
+![crear blog en Github](images/crear-blog-github-jekyll.png)
 
 
 Aproveché dicho post para realizar un tutorial para la creación de un blog en la plataforma así como para realizar algunos comentarios que me dejó dicha experiencia.
