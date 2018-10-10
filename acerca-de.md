@@ -8,7 +8,7 @@ Mi nombre es Julio Yamá Andrade y éste es mi miniblog personal.
 
 ### Más información
 
-Soy Abogado, blogger y profesor, con más de 7 años de experiencia en el mundo del blogging especialmente en Blogger. Trato de ayudar a otras personas como yo a navegar en este basto mundo del blogueo y convertir su experiencia en algo más que un simple post.
+Soy Abogado y blogger, con más de 7 años de experiencia en el mundo del blogging especialmente en Blogger. Trato de ayudar a otras personas como yo a navegar en este basto mundo del blogueo y convertir su experiencia en algo más que un simple post.
 
 Mis pasiones se concentran en mis 3 blogs donde toco las temáticas que más influyen en mi vida: el mundo del blog y el internet a través de la Taberna de Julio desde donde hace más de 7 años comparto mi conocimiento en la plataforma de Blogger par aayudar a blogueros primerizos a crear y mantener su primer blog.
 
