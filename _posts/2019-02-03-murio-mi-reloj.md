@@ -2,11 +2,10 @@
 layout: post
 title: Murió mi reloj
 author: Julio Yamá Andrade
+images: /images/reloj-muerto.png
 categories: personal
 published: true
 ---
-(/images/reloj-muerto.png)
-
 Hace unos días mi reloj, que cargaba diariamente desde hace 10 años falleció definitivamente al... romperse su carcasa.
 
 Bueno vale, todavía no está muerto, todavía funciona y da la hora, sin embargo la carcasa está rota y básicamente cambiarla me costaría casi lo mismo que omprar uno nuevo... así que opté por comprar uno nuevo.
